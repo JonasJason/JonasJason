@@ -22,12 +22,17 @@
 <img align="left" alt="GitHub" height="30px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 <img align="left" alt="Terminal" height="30px" src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" />
 
+<br />
+<br />
+
 ---
 
-### :zap: Recent Activity
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 
+</details>
 
 [website]: https://www.sites.psu.edu/jonas
 [linkedin]: https://www.linkedin.com/in/jonasjason
