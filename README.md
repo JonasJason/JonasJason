@@ -26,7 +26,7 @@
 <br />
 
 ---
-
+<!--START_SECTION:activity-->
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
