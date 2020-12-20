@@ -34,5 +34,12 @@
 
 </details>
 
+<details>
+  <summar>:zap: GitHub Stats</summary>
+  
+   <img align="left" alt="Jonas's GitHub Stats" src="https://github-readme-stats.jonasjason.vercel.app/api?username=JonasJason&show_icons=true&hide_border=true" />
+  
+</details>
+
 [website]: https://www.sites.psu.edu/jonas
 [linkedin]: https://www.linkedin.com/in/jonasjason
