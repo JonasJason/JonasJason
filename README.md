@@ -5,7 +5,9 @@
 ### Connect with me:
 
 [<img align="left" alt="sites.psu.edu/jonas" height="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jonas Jason | LinkedIn" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jonas Jason | LinkedIn" height="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="Jonas Jason | Dev.to" height="30px" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" />][devto]
+[<img align="left" alt="Jonas Jason | YouTube" height="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][youtube]
 
 <br />
 <br />
@@ -49,3 +51,5 @@
 
 [website]: https://www.sites.psu.edu/jonas
 [linkedin]: https://www.linkedin.com/in/jonasjason
+[youtube]: https://www.youtube.com/channel/UCcJJNxWN_aL1jpY8y4ePvEQ
+[devto]: https://dev.to/jonasjason
