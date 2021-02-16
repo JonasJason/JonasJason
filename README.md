@@ -33,11 +33,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4419](https://github.com/simple-icons/simple-icons/issues/4419) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#4419](https://github.com/simple-icons/simple-icons/issues/4419) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. ❗️ Opened issue [#9802](https://github.com/timburgan/timburgan/issues/9802) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗️ Opened issue [#4419](https://github.com/simple-icons/simple-icons/issues/4419) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🎉 Merged PR [#3](https://github.com/jpd5749/TextbookTrader/pull/3) in [jpd5749/TextbookTrader](https://github.com/jpd5749/TextbookTrader)
+1. 💪 Opened PR [#178](https://github.com/btopro/ist402/pull/178) in [btopro/ist402](https://github.com/btopro/ist402)
+2. 🗣 Commented on [#70](https://github.com/btopro/ist402/issues/70) in [btopro/ist402](https://github.com/btopro/ist402)
+3. 🗣 Commented on [#4419](https://github.com/simple-icons/simple-icons/issues/4419) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#4419](https://github.com/simple-icons/simple-icons/issues/4419) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. ❗️ Opened issue [#9802](https://github.com/timburgan/timburgan/issues/9802) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </details>
