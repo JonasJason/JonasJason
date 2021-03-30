@@ -33,9 +33,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#178](https://github.com/btopro/ist402/pull/178) in [btopro/ist402](https://github.com/btopro/ist402)
-2. 🗣 Commented on [#70](https://github.com/btopro/ist402/issues/70) in [btopro/ist402](https://github.com/btopro/ist402)
-3. 🗣 Commented on [#4419](https://github.com/simple-icons/simple-icons/issues/4419) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 🗣 Commented on [#594](https://github.com/elmsln/issues/issues/594) in [elmsln/issues](https://github.com/elmsln/issues)
+2. 💪 Opened PR [#178](https://github.com/btopro/ist402/pull/178) in [btopro/ist402](https://github.com/btopro/ist402)
+3. 🗣 Commented on [#70](https://github.com/btopro/ist402/issues/70) in [btopro/ist402](https://github.com/btopro/ist402)
 4. 🗣 Commented on [#4419](https://github.com/simple-icons/simple-icons/issues/4419) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 5. ❗️ Opened issue [#9802](https://github.com/timburgan/timburgan/issues/9802) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
