@@ -15,7 +15,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" height="30px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<img align="left" alt="JavaScript" height="30px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />
+<img align="left" alt="JavaScript" height="30px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" />
 <img align="left" alt="Node.js" height="30px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
 <img align="left" alt="Python" height="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="Gamemaker" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/game-maker-2-569485.png" />
