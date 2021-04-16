@@ -33,11 +33,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3396](https://github.com/npm/npm-expansions/pull/3396) in [npm/npm-expansions](https://github.com/npm/npm-expansions)
-2. ❗️ Opened issue [#608](https://github.com/elmsln/issues/issues/608) in [elmsln/issues](https://github.com/elmsln/issues)
-3. ❗️ Opened issue [#606](https://github.com/elmsln/issues/issues/606) in [elmsln/issues](https://github.com/elmsln/issues)
-4. ❗️ Opened issue [#605](https://github.com/elmsln/issues/issues/605) in [elmsln/issues](https://github.com/elmsln/issues)
-5. ❗️ Closed issue [#576](https://github.com/elmsln/HAXcms/issues/576) in [elmsln/HAXcms](https://github.com/elmsln/HAXcms)
+1. 🎉 Merged PR [#1](https://github.com/JonasJason/ScooterAPI/pull/1) in [JonasJason/ScooterAPI](https://github.com/JonasJason/ScooterAPI)
+2. 💪 Opened PR [#1](https://github.com/JonasJason/ScooterAPI/pull/1) in [JonasJason/ScooterAPI](https://github.com/JonasJason/ScooterAPI)
+3. 💪 Opened PR [#3396](https://github.com/npm/npm-expansions/pull/3396) in [npm/npm-expansions](https://github.com/npm/npm-expansions)
+4. ❗️ Opened issue [#608](https://github.com/elmsln/issues/issues/608) in [elmsln/issues](https://github.com/elmsln/issues)
+5. ❗️ Opened issue [#606](https://github.com/elmsln/issues/issues/606) in [elmsln/issues](https://github.com/elmsln/issues)
 <!--END_SECTION:activity-->
 
 </details>
