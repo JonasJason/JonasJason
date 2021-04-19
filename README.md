@@ -33,11 +33,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JonasJason/ScooterAPI/pull/1) in [JonasJason/ScooterAPI](https://github.com/JonasJason/ScooterAPI)
-2. 💪 Opened PR [#1](https://github.com/JonasJason/ScooterAPI/pull/1) in [JonasJason/ScooterAPI](https://github.com/JonasJason/ScooterAPI)
-3. 💪 Opened PR [#3396](https://github.com/npm/npm-expansions/pull/3396) in [npm/npm-expansions](https://github.com/npm/npm-expansions)
-4. ❗️ Opened issue [#608](https://github.com/elmsln/issues/issues/608) in [elmsln/issues](https://github.com/elmsln/issues)
-5. ❗️ Opened issue [#606](https://github.com/elmsln/issues/issues/606) in [elmsln/issues](https://github.com/elmsln/issues)
+1. 🗣 Commented on [#652](https://github.com/elmsln/issues/issues/652) in [elmsln/issues](https://github.com/elmsln/issues)
+2. 🎉 Merged PR [#1](https://github.com/JonasJason/ScooterAPI/pull/1) in [JonasJason/ScooterAPI](https://github.com/JonasJason/ScooterAPI)
+3. 💪 Opened PR [#1](https://github.com/JonasJason/ScooterAPI/pull/1) in [JonasJason/ScooterAPI](https://github.com/JonasJason/ScooterAPI)
+4. 💪 Opened PR [#3396](https://github.com/npm/npm-expansions/pull/3396) in [npm/npm-expansions](https://github.com/npm/npm-expansions)
+5. ❗️ Opened issue [#608](https://github.com/elmsln/issues/issues/608) in [elmsln/issues](https://github.com/elmsln/issues)
 <!--END_SECTION:activity-->
 
 </details>
