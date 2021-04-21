@@ -33,11 +33,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#520](https://github.com/elmsln/lrnwebcomponents/pull/520) in [elmsln/lrnwebcomponents](https://github.com/elmsln/lrnwebcomponents)
-2. 🗣 Commented on [#652](https://github.com/elmsln/issues/issues/652) in [elmsln/issues](https://github.com/elmsln/issues)
-3. 🎉 Merged PR [#1](https://github.com/JonasJason/ScooterAPI/pull/1) in [JonasJason/ScooterAPI](https://github.com/JonasJason/ScooterAPI)
-4. 💪 Opened PR [#1](https://github.com/JonasJason/ScooterAPI/pull/1) in [JonasJason/ScooterAPI](https://github.com/JonasJason/ScooterAPI)
-5. 💪 Opened PR [#3396](https://github.com/npm/npm-expansions/pull/3396) in [npm/npm-expansions](https://github.com/npm/npm-expansions)
+1. ❌ Closed PR [#520](https://github.com/elmsln/lrnwebcomponents/pull/520) in [elmsln/lrnwebcomponents](https://github.com/elmsln/lrnwebcomponents)
+2. 💪 Opened PR [#520](https://github.com/elmsln/lrnwebcomponents/pull/520) in [elmsln/lrnwebcomponents](https://github.com/elmsln/lrnwebcomponents)
+3. 🗣 Commented on [#652](https://github.com/elmsln/issues/issues/652) in [elmsln/issues](https://github.com/elmsln/issues)
+4. 🎉 Merged PR [#1](https://github.com/JonasJason/ScooterAPI/pull/1) in [JonasJason/ScooterAPI](https://github.com/JonasJason/ScooterAPI)
+5. 💪 Opened PR [#1](https://github.com/JonasJason/ScooterAPI/pull/1) in [JonasJason/ScooterAPI](https://github.com/JonasJason/ScooterAPI)
 <!--END_SECTION:activity-->
 
 </details>
