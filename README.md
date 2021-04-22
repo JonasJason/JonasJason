@@ -33,11 +33,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#524](https://github.com/elmsln/lrnwebcomponents/pull/524) in [elmsln/lrnwebcomponents](https://github.com/elmsln/lrnwebcomponents)
-2. 💪 Opened PR [#523](https://github.com/elmsln/lrnwebcomponents/pull/523) in [elmsln/lrnwebcomponents](https://github.com/elmsln/lrnwebcomponents)
-3. ❌ Closed PR [#520](https://github.com/elmsln/lrnwebcomponents/pull/520) in [elmsln/lrnwebcomponents](https://github.com/elmsln/lrnwebcomponents)
-4. 💪 Opened PR [#520](https://github.com/elmsln/lrnwebcomponents/pull/520) in [elmsln/lrnwebcomponents](https://github.com/elmsln/lrnwebcomponents)
-5. 🗣 Commented on [#652](https://github.com/elmsln/issues/issues/652) in [elmsln/issues](https://github.com/elmsln/issues)
+1. 🗣 Commented on [#524](https://github.com/elmsln/lrnwebcomponents/issues/524) in [elmsln/lrnwebcomponents](https://github.com/elmsln/lrnwebcomponents)
+2. 💪 Opened PR [#524](https://github.com/elmsln/lrnwebcomponents/pull/524) in [elmsln/lrnwebcomponents](https://github.com/elmsln/lrnwebcomponents)
+3. 💪 Opened PR [#523](https://github.com/elmsln/lrnwebcomponents/pull/523) in [elmsln/lrnwebcomponents](https://github.com/elmsln/lrnwebcomponents)
+4. ❌ Closed PR [#520](https://github.com/elmsln/lrnwebcomponents/pull/520) in [elmsln/lrnwebcomponents](https://github.com/elmsln/lrnwebcomponents)
+5. 💪 Opened PR [#520](https://github.com/elmsln/lrnwebcomponents/pull/520) in [elmsln/lrnwebcomponents](https://github.com/elmsln/lrnwebcomponents)
 <!--END_SECTION:activity-->
 
 </details>
